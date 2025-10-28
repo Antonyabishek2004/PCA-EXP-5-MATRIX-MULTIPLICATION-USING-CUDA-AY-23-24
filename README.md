@@ -1,4 +1,4 @@
-# PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24
+# PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-25-26
 
 ## ENTER YOUR NAME : ANTONY ABISHEK K
 
@@ -48,7 +48,6 @@ Google Colab with NVCC Compiler
 
 ```
 
-%%writefile matmul.cu
 #include <stdio.h>
 #include <cuda_runtime.h>
 #include <cuda.h>
@@ -215,9 +214,7 @@ int main()
 
 ## OUTPUT :
 
-<img width="1113" height="539" alt="image" src="https://github.com/user-attachments/assets/2c142365-883b-4714-84ff-3ba14bf1fede" />
-
-<img width="1661" height="350" alt="image" src="https://github.com/user-attachments/assets/9c1a34c3-7f89-46e1-805e-be4ba252833e" />
+![WhatsApp Image 2025-10-28 at 14 15 08_5e07e916](https://github.com/user-attachments/assets/e37d6858-a02c-4efc-8a9f-3d6c6dec5f00)
 
 ## RESULT : 
 
